@@ -1,0 +1,134 @@
+{
+  "populated_at": "2025-12-11T14:10:27.922359",
+  "total_companies": 16,
+  "companies": [
+    {
+      "name": "DoorDash",
+      "industry": "Delivery",
+      "stage": "Series A",
+      "batch": "YC S13",
+      "raise_amount": 2500000,
+      "video_file": "DoorDash's Application Video for YC S13.mp4"
+    },
+    {
+      "name": "Apten",
+      "industry": "AI/Sales",
+      "stage": "Seed",
+      "batch": "YC S24",
+      "raise_amount": 1500000,
+      "video_file": "Apten - YC S24 Founder Video (Accepted).mp4"
+    },
+    {
+      "name": "ClearSpace",
+      "industry": "Productivity",
+      "stage": "Seed",
+      "batch": "YC W23",
+      "raise_amount": 800000,
+      "video_file": "Clearspace (YC W23) Application Video (Accepted).mp4"
+    },
+    {
+      "name": "Airbnb",
+      "industry": "Hospitality",
+      "stage": "Series B",
+      "batch": "YC W09",
+      "raise_amount": 7200000,
+      "video_file": "VRBO.mp4"
+    },
+    {
+      "name": "GitLab",
+      "industry": "DevTools",
+      "stage": "Series A",
+      "batch": "YC W15",
+      "raise_amount": 4000000,
+      "video_file": null
+    },
+    {
+      "name": "Dropbox",
+      "industry": "Cloud Storage",
+      "stage": "Seed",
+      "batch": "YC S07",
+      "raise_amount": 1200000,
+      "video_file": null
+    },
+    {
+      "name": "Coinbase",
+      "industry": "Crypto",
+      "stage": "Seed",
+      "batch": "YC S12",
+      "raise_amount": 600000,
+      "video_file": null
+    },
+    {
+      "name": "Cruise",
+      "industry": "Autonomous Vehicles",
+      "stage": "Seed",
+      "batch": "YC W14",
+      "raise_amount": 3000000,
+      "video_file": null
+    },
+    {
+      "name": "Mixpanel",
+      "industry": "Analytics",
+      "stage": "Seed",
+      "batch": "YC S09",
+      "raise_amount": 500000,
+      "video_file": null
+    },
+    {
+      "name": "Instacart",
+      "industry": "Delivery",
+      "stage": "Seed",
+      "batch": "YC S12",
+      "raise_amount": 2000000,
+      "video_file": null
+    },
+    {
+      "name": "Twitch",
+      "industry": "Streaming",
+      "stage": "Seed",
+      "batch": "YC W07",
+      "raise_amount": 1500000,
+      "video_file": null
+    },
+    {
+      "name": "Brex",
+      "industry": "Fintech",
+      "stage": "Series A",
+      "batch": "YC W17",
+      "raise_amount": 7000000,
+      "video_file": null
+    },
+    {
+      "name": "Reddit",
+      "industry": "Social",
+      "stage": "Seed",
+      "batch": "YC S05",
+      "raise_amount": 100000,
+      "video_file": null
+    },
+    {
+      "name": "Cluely",
+      "industry": "AI/Productivity",
+      "stage": "Pre-seed",
+      "batch": "Rejected",
+      "raise_amount": 500000,
+      "video_file": null
+    },
+    {
+      "name": "HungerStation",
+      "industry": "Delivery",
+      "stage": "Series B",
+      "batch": "Not YC",
+      "raise_amount": 8000000,
+      "video_file": null
+    },
+    {
+      "name": "Stripe",
+      "industry": "Fintech",
+      "stage": "Series A",
+      "batch": "YC S09",
+      "raise_amount": 2000000,
+      "video_file": null
+    }
+  ]
+}

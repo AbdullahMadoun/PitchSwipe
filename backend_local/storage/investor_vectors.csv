@@ -1,0 +1,1 @@
+timestamp,user_id,interaction_num,video_id,video_name,swipe_type,watch_time,video_length,watch_ratio,weight_applied,category,category_score,alpha,beta,N_accumulator,engagement_trend,recent_positive_rate,recent_negative_rate,u0_sample,u_interaction_sample,final_u_sample,cosine_similarity,rank_score,learning_progress

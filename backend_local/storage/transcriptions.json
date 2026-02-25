@@ -1,0 +1,20 @@
+{
+  "apten": {
+    "company_name": "Apten",
+    "video_file": "apten_pitch.mp4",
+    "transcription": "[PLACEHOLDER: Apten YC pitch video transcription will be provided]",
+    "description": "AI-powered platform for optimizing business operations"
+  },
+  "clearspace": {
+    "company_name": "ClearSpace",
+    "video_file": "clearspace_pitch.mp4", 
+    "transcription": "[PLACEHOLDER: ClearSpace YC pitch video transcription will be provided]",
+    "description": "Space debris removal and satellite servicing technology"
+  },
+  "doordash": {
+    "company_name": "DoorDash",
+    "video_file": "doordash_pitch.mp4",
+    "transcription": "[PLACEHOLDER: DoorDash YC pitch video transcription will be provided]",
+    "description": "On-demand food delivery platform connecting restaurants with customers"
+  }
+}
