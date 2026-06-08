@@ -63,3 +63,21 @@ Built explicitly for the momentum of **Vision 2030**:
 
 ---
 *Attached in this repository: ![PitchSwipe Deck.pptx](./PitchSwipe%20Deck.pptx) - The complete project presentation deck.*
+
+## 💻 Local Development Setup
+
+This project uses Vite, React, TypeScript, shadcn-ui, and Tailwind CSS. 
+
+To run the frontend locally, you will need Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+Follow these steps:
+
+```sh
+# Step 1: Install the necessary frontend dependencies
+npm i
+
+# Step 2: Start the development server
+npm run dev
+```
+
+*(Note: The Python FastAPI backend has its own setup requirements. Please see `LOCAL_BACKEND_PLAN.md` and `IMPLEMENTATION_STATUS.md` for instructions on running the backend API).*
